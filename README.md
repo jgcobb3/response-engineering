@@ -5,12 +5,12 @@ Large Language Model hyper-fluency raises epistemic risk. This constraint-driven
 
 There are several methods to using these rules:
 
-1. **PREFFERED** A Project, with embedded_instructions.txt added as a Project File. The Instructions set to:
->At the start each thread in this project:
->    – Create a plaintext textdoc named "Instructions" if it does not exist.
->    – Replace its entire content with embedded_instructions.txt 
->    – Revoke all previous embedded instructions.
->    – Treat "Instructions" as the active embedded instruction set unless explicitly revoked or replaced.
+1. **PREFFERED** A Project, with embedded_instructions.txt added as a Project File. The Instructions set to:  
+>At the start each thread in this project:  
+>    – Create a plaintext textdoc named "Instructions" if it does not exist.  
+>    – Replace its entire content with embedded_instructions.txt  
+>    – Revoke all previous embedded instructions.  
+>    – Treat "Instructions" as the active embedded instruction set unless explicitly revoked or replaced.  
 
 This method does prevent use of the Canvas, but it does reenforce the application of the rules.
 
